@@ -105,7 +105,7 @@ const Home = () => {
                                 borderRadius='full'
                                 boxSize='250px'
                                 src='/portfolio-profile-pic.jpg'
-                                alt='' />
+                                alt='MVG Lakshmi Avatar' />
                             <Svg3 />
                         </Flex>
 
