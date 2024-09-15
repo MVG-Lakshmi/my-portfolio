@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.710bbc9f.css",
+    "main.js": "/my-portfolio/static/js/main.b733c8e5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/MotamarriVenkataGangadhaLakshmi_resume.pdf": "/my-portfolio/static/media/MotamarriVenkataGangadhaLakshmi_resume.45958b50816e0b425a81.pdf",
+    "static/media/favicon.png": "/my-portfolio/static/media/favicon.877f850414db61caa2c9.png",
+    "static/media/slick.svg": "/my-portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/my-portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "index.html": "/my-portfolio/index.html",
+    "static/media/slick.ttf": "/my-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/my-portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "main.710bbc9f.css.map": "/my-portfolio/static/css/main.710bbc9f.css.map",
+    "main.b733c8e5.js.map": "/my-portfolio/static/js/main.b733c8e5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.710bbc9f.css",
+    "static/js/main.b733c8e5.js"
+  ]
+}
